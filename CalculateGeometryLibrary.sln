@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateGeometryLibrary", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGeometryLibraryApp", "TestGeometryLibraryApp\TestGeometryLibraryApp.csproj", "{D6241700-3DC3-4B25-B1D2-800E8C25D617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateGeometryLibrary.Tests", "CalculateGeometryLibrary.Tests\CalculateGeometryLibrary.Tests.csproj", "{EFDCE906-DB6C-460F-BF88-7111B93943D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D6241700-3DC3-4B25-B1D2-800E8C25D617}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6241700-3DC3-4B25-B1D2-800E8C25D617}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6241700-3DC3-4B25-B1D2-800E8C25D617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDCE906-DB6C-460F-BF88-7111B93943D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDCE906-DB6C-460F-BF88-7111B93943D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDCE906-DB6C-460F-BF88-7111B93943D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDCE906-DB6C-460F-BF88-7111B93943D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
