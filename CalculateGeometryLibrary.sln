@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateGeometryLibrary", "CalculateGeometryLibrary\CalculateGeometryLibrary.csproj", "{AA307982-1200-471F-A8E1-0AEBA747919F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGeometryLibraryApp", "TestGeometryLibraryApp\TestGeometryLibraryApp.csproj", "{D6241700-3DC3-4B25-B1D2-800E8C25D617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA307982-1200-471F-A8E1-0AEBA747919F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA307982-1200-471F-A8E1-0AEBA747919F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA307982-1200-471F-A8E1-0AEBA747919F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA307982-1200-471F-A8E1-0AEBA747919F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6241700-3DC3-4B25-B1D2-800E8C25D617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6241700-3DC3-4B25-B1D2-800E8C25D617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6241700-3DC3-4B25-B1D2-800E8C25D617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6241700-3DC3-4B25-B1D2-800E8C25D617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
