@@ -1,6 +1,6 @@
 /*
-В данном случае предполагается, что при связи многие ко многим таблиц Products и Categories
-используется дполнительная табилца CategoriesProducts полями ProductId и CategoriesId
+РџСЂРµРґРїРѕР»Р°РіР°РµС‚СЃСЏ, С‡С‚Рѕ РґР»СЏ СЃРІР·СЏР·Рё С‚Р°Р±Р»РёС† Product, Categories РјРЅРѕРіРёРµ РєРѕ РјРЅРѕРіРёРј РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ РґРѕРї. СЃРІСЏР·СѓСЋС‰Р°СЏ С‚Р°Р±Р»РёС†Р° CategoriesProducts,
+СЃРѕРґРµСЂР¶Р°С‰Р°СЏ ProductId Рё CategoryId
 */
 
 Select Products.Name, Categories.Name
